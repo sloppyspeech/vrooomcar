@@ -1,0 +1,16 @@
+.nav-item{
+    font-size:1rem;
+    font-weight:500;
+    color:#fff;
+    margin-left:1rem;
+    margin-top:1rem;
+    padding-left:0.5rem;
+    padding-right:0.5rem;
+    display: inline-block;
+    cursor:pointer;
+    &:hover{
+        font-weight: 700;
+        padding-left:0.42rem;
+        padding-right:0.42rem;
+    }
+}
